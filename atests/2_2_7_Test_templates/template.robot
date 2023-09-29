@@ -5,6 +5,8 @@ Normal test case
 Templated test case
     [Template]    Example keyword
     first argument    second argument
+    1    2
+    2    3
 
 Normal test case with embedded arguments
     The result of 1 + 1 should be 2

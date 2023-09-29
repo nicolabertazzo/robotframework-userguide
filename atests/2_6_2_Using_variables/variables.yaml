@@ -1,0 +1,9 @@
+stringyaml:   Hello, world from yaml!
+integer:  42
+list:
+  - one
+  - two
+dict:
+  one: yksi
+  two: kaksi
+  with spaces: kolme

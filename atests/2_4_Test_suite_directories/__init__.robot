@@ -1,7 +1,7 @@
 ** Settings ***
 Documentation    Example suite
 Suite Setup      Do Something    ${MESSAGE}
-Force Tags       example
+Force Tags       example  # deprecated
 # Library          SomeLibrary
 
 *** Variables ***
